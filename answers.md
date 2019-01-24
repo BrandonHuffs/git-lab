@@ -8,4 +8,9 @@ Answer 7: Working clean tree
 Answer 8: commit de7886567419bb0a67787a0c5241659fe3b23ce9
           Author: Brandon Huff <bh480818@ohio.edu>
           Date: Wed Jan 23 18:27:22 2019 -0500
-Answer 9:
+Answer 9: Your branch is up to date with 'origin/master'.
+                        modified: answers.md
+Answer 10: They did not move
+Answer 11: The terminal told me to use git pull
+Answer 12: They were.
+Answer 13:. ..  .git  .gitignore README.md
